@@ -1,2 +1,2 @@
 # pihole-automated
-fully automated instalation of Pi-Hole 
+fully automated installation of Pi-Hole 
