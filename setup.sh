@@ -15,4 +15,4 @@ do
 done
 }
 
-gcloud_list_instances ('terminated', us-west1)
+gcloud_list_instances ("terminated", us-west1)
