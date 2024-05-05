@@ -1,0 +1,5 @@
+wybrac właściwy projekt
+stworzyc maszyne VM
+zmodyfikowac firewall
+zainstalowac pi-hole
+zainstalowac wireguard
