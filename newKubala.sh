@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-howManyProjects=$(./countProjects.sh | wc -l)
+howManyProjects=$(./newCountProjects.sh | wc -l)
 echo "Number of projects: " ${howManyProjects}
 
 if [ "$howManyProjects" -eq 0 ]; then
